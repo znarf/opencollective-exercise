@@ -39,3 +39,5 @@ The final step was to wire the API data in the search page.
 ## Live Version
 
 This app was deployed with `now` on this URL: https://znarf-opencollective-exercise.now.sh/
+
+This version is currently limited to the first 500 entries in the CSV (file size limit).
